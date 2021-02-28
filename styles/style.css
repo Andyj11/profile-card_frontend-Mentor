@@ -5,9 +5,11 @@
     font-family: 'Kumbh Sans', sans-serif;    
     font-size: 18px;
 }
-
-.main{
+body{
     background-color: hsl(185, 75%, 39%);
+}
+.main{
+    
     display: flex;
     min-height: 100vh;
     align-items: center;
